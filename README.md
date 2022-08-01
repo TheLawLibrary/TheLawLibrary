@@ -1,8 +1,9 @@
 ### ⚡⚡ Welcome to the Law Library! ⚡⚡
 
-Here you will find many repositories containing primary source documents related to all things law. New content is added all the time, so be sure to check back frequently!
-
 **Edit (Aug. 1, 2022):** Shortly after I started bulk uploading files, I ran out of storage space. As a result, the storage of the PDF content has moved to my account at the Internet Archive, which can be found here: [https://archive.org/details/@thelawlibrary](https://archive.org/details/@thelawlibrary). I will continue my usual practice of uploading non-PDF content here. I will also be sure to announce the release of, and provide links to, my itemized content hosted at the Internet Archive.
+**//End of Edit//**
+
+Here you will find many repositories containing primary source documents related to all things law. New content is added all the time, so be sure to check back frequently!
 
 **holdings** is the main repository. The README there lays out the reasons for this account's creation and the principles furthered. In the future, the content in the **holdings** repository may be separated out into different repositories so as to help with targeted clones for particular categories of legal texts.
 
